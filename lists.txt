@@ -1,4 +1,4 @@
-白名单
+白名单 直连
 drm-license.youku.com
 acs.youku.com
 ups.youku.com
@@ -43,6 +43,6 @@ novipnoad.com
 nfmovies.com
 wy.bigmao.top
 
-黑名单
+黑名单 强制科学
 new.iskcd.com
 api.jhdyw.vip

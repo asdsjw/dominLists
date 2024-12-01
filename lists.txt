@@ -36,12 +36,33 @@ cdn2.bzjupinhang.com
 loli.magedn.com
 ddrk.me
 v3.ddrk.me
-qqgame.gzc.svp.tencent-cloud.com
-ddrk.oss-cn-shanghai.aliyuncs.com
 v2.ddrk.me
 novipnoad.com
 nfmovies.com
 wy.bigmao.top
+v.qq.com
+pbaccess.video.qq.com
+nodeyun.video.qq.com
+puui.qpic.cn
+vd.l.qq.com
+vd6.l.qq.com
+pad-cards.iqiyi.com
+api.iqiyi.com
+search.video.qiyi.com
+suggest.video.iqiyi.com
+cards.iqiyi.com
+meta.video.iqiyi.com
+v.youku.com
+log.mmstat.com
+pcookie.youku.com
+so.youku.com
+ott.bz.mgtv.com
+pcc.api.mgtv.com
+mobile.api.mgtv.com
+openapi.youku.com
+pcw-data.video.iqiyi.com
+valipl.cp31.ott.cibntv.net
+bscloudcdnct.inter.iqiyi.com
 
 黑名单 强制科学
 new.iskcd.com
